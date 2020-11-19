@@ -56,6 +56,9 @@ Network Trash Folder
 Temporary Items
 .apdisk
 
+## Intellij
+.idea
+
 ### Maven ###
 target/
 pom.xml.tag
